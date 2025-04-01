@@ -8,5 +8,3 @@ function verificaPar(n) {
         return "eh impar"
     }
 }
-
-console.log(verificaPar(n))
